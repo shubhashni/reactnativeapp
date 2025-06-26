@@ -11,6 +11,11 @@ export default function App() {
     <View style={{flex:.5, backgroundColor:'blue'}}>
       <Text>
        yahoo {'\n'} spider-man
+
+
+       lion
+
+       king
       </Text>
     </View>
     </>
